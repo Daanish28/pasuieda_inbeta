@@ -1,0 +1,48 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+   background-color: rgb(35, 9, 82);
+   margin: 0;
+}
+
+html,body{
+height: 100%;
+}
+
+.header{
+    background-image: url("bg.png");
+    background-clip:padding-box;
+    width: 1280px;
+    height: 480px;
+}
+
+h1{
+
+    position: relative;
+    bottom: -170;
+    
+    text-align: center;
+    font-size: 17pc;
+    color:rgb(255, 255, 255);
+    transition: 300ms;
+}
+/*(final velocity)bottom: -170;*/
+/*(initial velocity)?*/
+
+h1{
+  animation: animate 5s linear  ;
+
+
+
+}
+
+@keyframes animate
+ {
+     0%{
+       color: rgba(0, 0, 0, 0);
+         bottom: -270 ;
+
+
+     }
+
+    
+}
