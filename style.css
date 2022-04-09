@@ -17,12 +17,18 @@ height: 100%;
 h2{
 float: right;
 position:relative;
-left:-820;
-top:-24;
+left:-740;
+top:-20;
+ color:aliceblue;
 
 }
 
-
+h3{
+position:relative;
+ top:-265;
+ left:355;
+ color:aliceblue;
+}
 
 h1{
 position: relative;
