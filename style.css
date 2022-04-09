@@ -14,7 +14,13 @@ height: 100%;
   width: 1280px;
   height: 480px;
 }
+h2{
+float: right;
 
+
+
+
+}
 
 
 
@@ -22,7 +28,7 @@ h1{
 position: relative;
 text-align: center;
 font-size: 9pc;
-bottom: -340;
+bottom: -260;
 color: white;
 animation: animate 1s ease-in-out ;
 }
