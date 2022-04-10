@@ -23,6 +23,15 @@ top:-20;
 
 }
 
+.yes{
+background-image: url("papasan.png");
+width: 1280px;
+height:400px;
+
+}
+
+
+
 h3{
 position:relative;
  top:-265;
@@ -46,6 +55,4 @@ bottom: -490;
 color: rgba(240, 248, 255, 0);
 
   }
-
-
 }
